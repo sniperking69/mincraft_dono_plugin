@@ -1,0 +1,9 @@
+name: assPlugin
+version: 1.1
+author: assman69
+main: me.assman.assPlugin.assPlugin
+description: Spawns Creepers on Player
+commands:
+  creepspawn:
+    aliases: [cs]
+    description: /cs to spawn 5 creepers
